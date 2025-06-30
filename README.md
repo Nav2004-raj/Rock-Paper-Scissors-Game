@@ -2,11 +2,6 @@
 
 A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. The game allows the user to play against the computer, with interactive UI and dynamic score updates.
 
-## 🔗 Live Demo
-
-[Click here to play the game](#)  
-*(Replace with your live site URL or GitHub Pages link)*
-
 ---
 
 ## 🚀 Features
@@ -27,12 +22,6 @@ A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **J
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
-
----
-
 ## 🎮 How to Play
 
 1. Click on one of the options: **Rock**, **Paper**, or **Scissors**.
@@ -42,7 +31,3 @@ A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **J
    - Scissors beats Paper
    - Paper beats Rock
 4. The scores will update automatically.
-
----
-
-## 📁 Folder Structure
